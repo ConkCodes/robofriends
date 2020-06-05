@@ -3,9 +3,9 @@
 React App
 
 To Use
-  Clone this repo
-  npm install
-  npm start
+  - Clone this repo
+  - npm install
+  - npm start
 
 Features
   Searchable robots
