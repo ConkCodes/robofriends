@@ -8,8 +8,8 @@ To Use
   - npm start
 
 Features
-  Searchable robots
-  Scrolling
+  - Searchable robots
+  - Scrolling
 
 Made With
-  Create React App
+  - Create React App
