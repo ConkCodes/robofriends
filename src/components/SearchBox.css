@@ -1,0 +1,11 @@
+.searchBoxContainer {
+    /* box */
+    padding-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightgreen;
+}
